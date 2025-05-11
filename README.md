@@ -3,12 +3,19 @@
 # News-Dumpster
 News aggregated from around the world summarized and formatted.
 
+# News
+## [Update 05-11](update_05-11.md)
+
+## Numbers in front of article titles are reference numbers for [articles_05-11.jsonl.gz](articles_05-11.jsonl.gz)
 - [Prompt](#Prompt)
 - [RSS feeds](#RSS-feeds)
+### Oe way to extract records by id
+```sh
+gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
+```
 
 ---
 
-- [Update 05-11](update_05-11.md)
 - [Jsonl article data with NER and targetted sentiment analysis](articles_05-11.jsonl.gz)
 
 ---
