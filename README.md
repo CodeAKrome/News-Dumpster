@@ -5,4 +5,4 @@ News aggregated from around the world summarized and formatted.
 
 ---
 
-[Update 05-11](update_05-11)
+[Update 05-11](update_05-11.md)
