@@ -4,7 +4,7 @@
 News aggregated from around the world summarized and formatted.
 
 - [Prompt](#Prompt)
-- [RSS feeds](#RSS feeds)
+- [RSS feeds](#RSS-feeds)
 
 ---
 
