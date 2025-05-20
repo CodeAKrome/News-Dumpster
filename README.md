@@ -1494,21 +1494,21 @@ Use the following format:
 # [Category a](#Category%20a) article_id1, article_id2, article_id3 article_id4, article_id5, article_id6
 ## [Subcategory a](#Subcategory%20a) article_id1, article_id2, article_id3
 ### [Subcategory topic a](#Subcategory%20topic%20a)
-#### article_id1 [article_title1](article_link)
+#### article_id1 [article_title1](article_link1)
 - <summary from article_link>
-#### article_id2 [article_title2](article_link)
+#### article_id2 [article_title2](article_link2)
 - <summary from article_link>
-#### article_id3 [article_title3](article_link)
+#### article_id3 [article_title3](article_link3)
 - <summary from article_link>
 #### Summary
 <Summary of Subcategory topic articles>
 ## [Subcategory b](#Subcategory%20b) article_id4, article_id5, article_id6
 ### [Subcategory topic b](#Subcategory%20topic%20b)
-#### article_id4 [article_title4](article_link)
+#### article_id4 [article_title4](article_link4)
 - <summary from article_link>
-#### article_id5 [article_title5](article_link)
+#### article_id5 [article_title5](article_link5)
 - <summary from article_link>
-#### article_id6 [article_title6](article_link)
+#### article_id6 [article_title6](article_link6)
 - <summary from article_link>
 #### Summary
 <Summary of Subcategory topic articles>
