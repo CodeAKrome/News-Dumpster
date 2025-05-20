@@ -21,6 +21,7 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 
 ---
 
+## [Analysis of current Israel Palestinian conflict, with pictures](0520ispal.md)
 ## [Overview 05-20](0520_overview.md)
 ## [update 05-20 Russia Ukraine peace negotiations](rusukrpeace0520.md)
 ## [dedupe_0520.jsonl.gz](dedupe_0520.jsonl.gz)
