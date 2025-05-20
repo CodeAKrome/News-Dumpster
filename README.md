@@ -1496,7 +1496,8 @@ Use the following format:
 
 # [Category a](#Category%20a)
 ## [Subcategory a](#Subcategory%20a)
-### [Subcategory topic a](#Subcategory%20topic%20a) article_id1, article_id2, article_id3
+### [Subcategory topic a](#Subcategory%20topic%20a)
+- article_id1, article_id2, article_id3
 #### article_id1 [article_title1](article_link1)
 - <summary from article_link>
 #### article_id2 [article_title2](article_link2)
@@ -1506,7 +1507,8 @@ Use the following format:
 #### Summary
 <Summary of Subcategory topic articles>
 ## [Subcategory b](#Subcategory%20b)
-### [Subcategory topic b](#Subcategory%20topic%20b) article_id4, article_id5, article_id6
+### [Subcategory topic b](#Subcategory%20topic%20b)
+- article_id4, article_id5, article_id6
 #### article_id4 [article_title4](article_link4)
 - <summary from article_link>
 #### article_id5 [article_title5](article_link5)
