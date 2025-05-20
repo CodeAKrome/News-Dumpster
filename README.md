@@ -1485,7 +1485,7 @@ Create a table of contents at the top that links to its entry.
 The Subcategory topic articles should discuss the same subject.
 When creating table of content links, substitute the html code for space, %20, instead of a literal space ' ' character.
 A brief summary will follow the Subcategory topic articles which shows how different groups involved agree and disagree on the topic under discussion taking into account all relevant information.
-Create a comma separated list of article_id for the articles below each Category and Subcategory.
+Create a comma separated list of article_id for the articles below each Subcategory topic.
 
 Create a summary for each article based upon the content of the article_link web page.
 
