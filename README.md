@@ -7,6 +7,7 @@ News aggregated from around the world summarized and formatted.
 ## [Update 05-11](update_05-11.md)
 ## [Boer](Boer.md)
 ## [Update 05-14](up0514.md)
+## [update 05-20](rusukrpeace0520.md)
 
 ### 05-20 Russia Ukraine peace negotiations.
 ![Image](https://github.com/user-attachments/assets/0c9087e5-1532-48b7-a344-e4154554a939)
