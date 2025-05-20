@@ -19,6 +19,7 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 ## [Boer](Boer.md)
 ## [Update 05-14](up0514.md)
 ## [update 05-20](rusukrpeace0520.md)
+### [refocus on conflict themes](0520rusukr_meta.md)
 
 ### 05-20 Russia Ukraine peace negotiations.
 ![Image](https://github.com/user-attachments/assets/0c9087e5-1532-48b7-a344-e4154554a939)
