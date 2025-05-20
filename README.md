@@ -8,6 +8,8 @@ News aggregated from around the world summarized and formatted.
 ## [Boer](Boer.md)
 ## [Update 05-14](up0514.md)
 
+### 05-20 Russia Ukraine peace negotiations.
+![Image](https://github.com/user-attachments/assets/0c9087e5-1532-48b7-a344-e4154554a939)
 ### Ukraine Russia
 ![Image](https://github.com/user-attachments/assets/c63d3553-09fa-4bb8-ac53-549847c072d2)
 ### India Pakistan Cease Fire Visualization
