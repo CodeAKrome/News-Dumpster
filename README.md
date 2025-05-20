@@ -28,6 +28,8 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 ## [dedupe_0520.jsonl.gz](dedupe_0520.jsonl.gz)
 ### [refocus on conflict themes](0520rusukr_meta.md)
 
+### 05-20 Irael Palestinian
+![Image](https://github.com/user-attachments/assets/ba41c6e6-9bec-4c79-80b6-4b92d21c37f8)
 ### 05-20 Russia Ukraine peace negotiations.
 ![Image](https://github.com/user-attachments/assets/0c9087e5-1532-48b7-a344-e4154554a939)
 ### Ukraine Russia
