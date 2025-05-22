@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/ac56e82d-4f57-4b71-a047-da98ecd43ee3)
 ### Expert Political Analysis: U.S.-South Africa Tensions Over Claims of White Persecution
 
 #### Overview
