@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/2ff8da99-00e2-4fc1-a111-b82efcc88069)
 # Table of Contents
 
 # Israel-Gaza Conflict
