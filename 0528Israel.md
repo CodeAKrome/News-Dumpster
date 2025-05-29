@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/7a96e974-8e11-437b-a913-321affc680cc)
 Alright, let’s break down the news articles from the provided JSONL file into clear, specific categories based on their main subjects, with a focus on Israel’s role or connection to the events. I’ll group them tightly so each category sticks to a single core topic, link each article by title, list the article IDs, and wrap it all up with a meta summary that ties everything together. The summaries will be in a straightforward, conversational style to keep it real.
 
 ---
