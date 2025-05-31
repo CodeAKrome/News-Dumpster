@@ -21,8 +21,6 @@
 ## Liverpool Parade Crash
 - **1419**: [Liverpool parade crash suspect to appear in court](https://www.bbc.com/news/articles/crk2l00p3r2o)
 - **1437**: [Former Royal Marine charged in Liverpool parade crash](https://www.bbc.com/news/articles/c1dezrrl3z3o)
-- **1757**: [Liverpool man charged after car drove into parade crowd](https://www.dw.com/en/liverpool-man-charged-after-car-drove-into-parade-crowd/a-72726835?maca=en-rss-en-all-1573-rdf)
-- **1764**: [Liverpool man charged after car drove into parade crowd](https://www.dw.com/en/liverpool-man-charged-after-car-drove-into-parade-crowd/a-72726835?maca=en-rss-en-world-4025-rdf)
 - **1769**: [Liverpool man charged after car drove into parade crowd](https://www.dw.com/en/liverpool-man-charged-after-car-drove-into-parade-crowd/a-72726835?maca=en-rss-en-eu-2092-rdf)
 ## Trump Tariffs and Trade Policy
 - **1420**: [Trump tariffs can stay in place for now, appeals court rules](https://www.bbc.com/news/articles/c93ywvl7yy5o)
