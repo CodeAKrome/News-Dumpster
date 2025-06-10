@@ -195,7 +195,7 @@
 
 ---
 ---
-
+![Image](https://github.com/user-attachments/assets/eba63c7a-6374-4310-9c7d-5940a6f3ddab)
 # Immigration Protests and Riots
 ## Anti-ICE Protests
 ### Violent Clashes and Riots
