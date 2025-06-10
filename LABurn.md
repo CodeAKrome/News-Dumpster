@@ -195,9 +195,9 @@
 
 ---
 ---
-![Image](https://github.com/user-attachments/assets/eba63c7a-6374-4310-9c7d-5940a6f3ddab)
 # Immigration Protests and Riots
 ## Anti-ICE Protests
+![Image](https://github.com/user-attachments/assets/eba63c7a-6374-4310-9c7d-5940a6f3ddab)
 ### Violent Clashes and Riots
 - *1623* [All it took was a rumour, and Los Angeles erupted in protest](https://www.bbc.com/news/articles/c1kv1lgdpkjo) ***Claims that day labourers were being rounded up trigger violent protests in a city on edge over deportations.***
 - *1644* [BBC on the ground as National Guard set up in Los Angeles](https://www.bbc.com/news/videos/clyvl100d4xo) ***The BBC's Regan Morris reports from outside a federal building, where there have been violent clashes in recent days.***
