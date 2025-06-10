@@ -1,7 +1,5 @@
 # TOC
 
----
-
 ### Timeline of Events: Anti-ICE Protests in Los Angeles, June 2025
 ### Summary of Key Locations
 ### Key Actors and Their Roles
