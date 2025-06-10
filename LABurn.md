@@ -296,6 +296,8 @@ The deployment of federal troops without state consent marks a significant escal
 
 ### Conclusion
 The vandalism of a Kobe Bryant mural and Waymo vehicles in Los Angeles amid ICE protests illustrates the complex interplay of cultural, technological, and political forces in June 2025. These incidents, set against a backdrop of federal-state conflict and public unrest, underscore the challenges of maintaining civic harmony and protecting public and private assets during periods of intense political polarization. The lack of identified suspects in both cases suggests spontaneous acts of frustration, but their impact on community symbols and innovative technologies could have lasting repercussions for Los Angeles’ social and economic fabric.
+---
+![Image](https://github.com/user-attachments/assets/255788b3-cd40-4866-a3a5-cfad1000ef4f)
 ### National Guard and Military Deployment
 - *1819* [Scuffles in Los Angeles as soldiers sent by Trump fan out](https://www.lemonde.fr/en/international/article/2025/06/08/national-guard-faces-off-with-protesters-hours-after-arriving-in-los-angeles-on-trump-s-orders_6742135_4.html) ***Unrest broke out for a third day, with protestors angry at actions by immigration officials that have resulted in dozens of arrests of what authorities say are illegal migrants and gang members. 'We’re gonna have troops everywhere. We’re not going to let this happen to our country. We’re not going to let our country be torn apart like it was under Biden,' said President Trump.***
 - *1867* [L.A. protests intensify after Trump deployed hundreds of National Guard troops](https://www.cbc.ca/news/world/national-guard-arrives-la-1.7555667?cmp=rss) ****
