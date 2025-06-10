@@ -15,7 +15,8 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 - [JSON record](#Json-record)
 
 # News
-## [LA love fest](LABurn.md)
+## [06-10 LA confidential report](LAconfidential.md)
+## [06-10 LA love fest](LABurn.md)
 ## [05-31 index](0531dex.md)
 ## [05-30 Russia Ukraine update](0530rusukr.md)
 ## [05-30 Gaza Conflict](0530gazacease.md)
