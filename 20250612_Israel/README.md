@@ -46,7 +46,8 @@
 
 ---
 
-- [RAWdata](./israel.jsonl)
+- Some .cypher files are in this directory if you want to play in Neo4j. 
+- [RAW data](./israel.jsonl)
 
 # Conflict and Security
 ## Israel-Hamas Conflict
