@@ -46,7 +46,7 @@
 
 ---
 
-- (RAWdata)[./israel.jsonl]
+- [RAWdata](./israel.jsonl)
 
 # Conflict and Security
 ## Israel-Hamas Conflict
