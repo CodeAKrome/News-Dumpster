@@ -218,7 +218,7 @@ This is a story of survival against overwhelming odds, where every box of food c
 1841,1846,1850,1920,2605,2886,3132,3194,4386,4483,4378,2918,4891,4384,4346,4347,4889
 ```
 
-- (mp3 of summary)[03_gazamil.mp3]
+- [mp3 of summary](03_gazamil.mp3)
 
 Good evening, viewers. This is your nightly update on the escalating conflict in the Gaza Strip, based on a detailed analysis of recent reports from multiple sources. I'm here to break down the critical developments, the human toll, and the political dynamics driving this crisis.
 
@@ -265,7 +265,7 @@ As we wrap up, the Gaza conflict remains a devastating cycle of violence, with n
 ```
 1934,2672,4297,4465,4472,4477,4480,4484,4473,4474,4476,4666,4382,4955,4352,4471,4520,4482,4312,4289,4291,3452
 ```
-- (mp3 of summary)[04_oct7.mp3]
+- [mp3 of summary](04_oct7.mp3)
 
 Good evening, and welcome to our special report on the ongoing impact of the October 7, 2023, Hamas attack on Israel, a day that has left an indelible mark on the nation and the region. Drawing from a collection of recent articles published by The Jerusalem Post, we’ll unpack the profound political, social, and psychological ramifications of this tragedy, which claimed 1,200 lives, saw 250 people taken hostage, and sparked a war that continues to reshape Israel and its neighbors. Let’s dive into the key insights with a focus on the human stories, strategic shifts, and the broader implications.
 
@@ -307,7 +307,7 @@ As Israel marks this somber anniversary, the stories of heroism, loss, and resil
 1650,1681,1685,3118,4377,4485,3205,3465,1694,4368,4370
 ```
 
-- (mp3 of summary)[05_ishez.mp3]
+- [mp3 of summary](05_ishez.mp3)
 
 Good evening, and welcome to our international news segment. I'm reporting on a series of critical developments in the escalating tensions between Israel and Lebanon, centered around the activities of Hezbollah and the fragile ceasefire in the region. Drawing from a collection of recent news reports, I'll break down the key events and their implications for stability in the Middle East.
 
@@ -349,7 +349,7 @@ This has been a comprehensive update on the Israel-Lebanon conflict. Stay tuned 
 2443,2920,2871,3004,3084,3181,3211,3214,3261,3266,4369,4535,4453
 ```
 
-- (mp3 of summary)[06_ishouthi.mp3]
+- [mp3 of summary](06_ishouthi.mp3)
 
 Good evening, viewers, this is your nightly update on the escalating tensions in the Middle East, where the conflict between Israel and Yemen’s Houthi movement, also known as Ansar Allah, has intensified significantly. Drawing from a series of recent news reports, I’ll break down the key developments with a focus on the military, political, and humanitarian dimensions of this complex situation.
 
@@ -409,7 +409,7 @@ The Houthis’ defiance and Israel’s intensified strikes suggest a prolonged c
 2436,2438,2448,4371,4968,4983
 ```
 
-- (mp3 of summary)[07_issyria.mp3]
+- [mp3 of summary](07_issyria.mp3)
 
 Good evening, viewers. This is [Your Name], reporting on a rapidly evolving situation in the Middle East, where tensions and diplomatic shifts between Israel and Syria are taking center stage. We’ve obtained exclusive news articles detailing recent military and diplomatic developments, and I’m here to break it all down for you with the latest insights.
 
@@ -433,7 +433,7 @@ This is a critical moment for Israel, Syria, and the broader Middle East. Will w
 2917,2936
 ```
 
-- (mp3 of summary)[syrmed.mp3]
+- [mp3 of summary](syrmed.mp3)
 
 Good evening, and welcome to our international news segment. I’m standing here with a groundbreaking story out of Syria, where a seismic shift in media coverage is signaling potential changes in the country’s stance toward Israel. New research from the Jerusalem-based Jewish People Policy Institute, or JPPI, reveals a dramatic drop in Israel-related content in Syrian state media since the fall of Bashar al-Assad’s regime last December. Let’s dive into the details.
 
@@ -483,7 +483,7 @@ So, what’s the takeaway? Syria’s new leadership appears to be dialing back i
 1847,1848,1900,2661,2663,2664,2866,2911,3206,3435,3143,2845,2846,4555,4543,4545,4546,4548,3207,3220,3223,3369,4265,4272,4557,4653,4965,4966,4541
 ```
 
-- (mp3 of summary)[09_iranuc.mp3]
+- [mp3 of summary](09_iranuc.mp3)
 
 Good evening, viewers. This is your nightly news update, and tonight, we’re diving into a complex and escalating situation in the Middle East, centered on Iran’s alleged acquisition of sensitive Israeli documents and the broader implications for its nuclear ambitions and regional power dynamics. Drawing from a series of detailed reports, let’s unpack this developing story with the precision it demands.
 
@@ -518,7 +518,7 @@ This is a story of high-stakes espionage, nuclear brinkmanship, and shifting all
 2669,4547,4549,4552,3125,4490,4492
 ```
 
-- (mp3 of summary)[10_iranreg.mp3]
+- [mp3 of summary](10_iranreg.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in the Middle East, where tensions, diplomacy, and strategic maneuvering are shaping a complex geopolitical landscape. Our focus tonight is on Iran’s multifaceted role in regional conflicts, nuclear negotiations, and its relationships with neighboring states and non-state actors. Drawing from recent reports, we’ll unpack the major themes and their implications for global stability.
 
@@ -545,7 +545,7 @@ This has been your correspondent, reporting on the unfolding dynamics in the Mid
 2926,4566,4576
 ```
 
-- (mp3 of summary)[11_iranterr.mp3]
+- [mp3 of summary](11_iranterr.mp3)
 
 Good evening. I'm reporting on three significant developments that underscore the escalating tensions between Iran and Israel, along with Iran's continued domestic unrest. These stories paint a troubling picture of Iran's multi-front strategy of destabilization.
 
@@ -591,7 +591,7 @@ This is a developing story, and we'll continue monitoring these critical develop
 1668,2404,4324,4334,4833
 ```
 
-- (mp3 of summary)[12_nucpro.mp3]
+- [mp3 of summary](12_nucpro.mp3)
 
 Good evening. I'm reporting tonight on a major defense initiative that's capturing international attention and raising serious concerns about a new arms race. President Trump's "Golden Dome" missile defense system is moving from campaign promise to reality, but it's already creating ripple effects across the globe.
 
@@ -627,7 +627,7 @@ We'll continue following this story as it develops. Back to you in the studio.
 4570,4578,4581,4582,4585,4586,4589,4668
 ```
 
-- (mp3 of summary)[14_isisother.mp3]
+- [mp3 of summary](14_isisother.mp3)
 
 Good evening. I'm here to report on a deeply concerning pattern of ISIS-related terrorism and radicalization that's been unfolding across multiple countries, with particularly alarming developments in Israel and the broader international community.
 
@@ -680,7 +680,7 @@ The threat remains clear and present, requiring continued vigilance and internat
 1906,1925,2650,2670,2910,3448,3456,4271
 ```
 
-- (mp3 of summary)[15_crimeint.mp3]
+- [mp3 of summary](15_crimeint.mp3)
 
 Good evening. I'm reporting on a troubling surge in violent crime across Israel that has unfolded over recent days, painting a disturbing picture of domestic security challenges amid the ongoing Israel-Hamas War.
 
@@ -727,7 +727,7 @@ This is a developing story, and we'll continue monitoring these troubling trends
 1914,1931,1949,2680,2682,2905,2933,3180,3187,3215,4497,4373,4960
 ```
 
-- (mp3 of summary)[16_mildef.mp3]
+- [mp3 of summary](16_mildef.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in Israel, drawn from recent news articles. Tonight, we delve into the complex interplay of military strategy, religious obligations, political tensions, and international relations shaping the nation’s present and future. Let’s unpack the major themes with precision and insight.
 
@@ -771,7 +771,7 @@ In summary, Israel navigates a precarious landscape: a grueling war in Gaza, a d
 1921,1946,2652,2658,2665,3183,3198,4514,4515,4517,4518,4521,4505,4664,4249,4857
 ```
 
-- (mp3 of summary)[17_ispol.mp3]
+- [mp3 of summary](17_ispol.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a critical juncture in Israeli politics, where the coalition government led by Prime Minister Benjamin Netanyahu faces its most severe crisis yet, teetering on the brink of collapse. The central issue threatening to dissolve the Knesset and trigger early elections is the contentious matter of conscripting ultra-Orthodox, or haredi, men into the Israel Defense Forces—a decades-long issue reignited by the seismic events of October 7, 2023. Tonight, we’ll unpack the major themes driving this political turmoil, drawing from a series of detailed reports.
 
@@ -798,7 +798,7 @@ In conclusion, Israel stands at a crossroads. The haredi conscription debate is 
 3190,4519,4523,4530,4528
 ```
 
-- (mp3 of summary)[18_legaljud.mp3]
+- [mp3 of summary](18_legaljud.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in Israeli politics, centered on Prime Minister Benjamin Netanyahu and the intensifying legal and political battles shaping the nation’s future. Our coverage draws from recent reports by The Jerusalem Post, highlighting themes of legal accountability, institutional reform, political maneuvering, and public trust in governance.
 
@@ -826,7 +826,7 @@ In summary, these stories reveal a nation at a crossroads, grappling with the in
 2655,2656,4262,3461,4531,4523
 ```
 
-- (mp3 of summary)[19_polidis.mp3]
+- [mp3 of summary](19_polidis.mp3)
 
 Good evening, this is your correspondent reporting on a series of critical developments in Israeli politics, as detailed in recent articles from the Jerusalem Post. Tonight, we delve into the escalating tensions, ideological divides, and inflammatory rhetoric that are shaping Israel’s domestic and international landscape. These stories reveal a nation grappling with its identity, security, and future, as political factions clash over the balance between Jewish tradition and democratic values, alongside contentious issues of national security and international relations. Let’s break it down.
 
@@ -873,7 +873,7 @@ As Israel grapples with these internal and external challenges, the path forward
 1933,2681,3204,3227,4318,4319,4325,4332,4337,4354,4620,4622,4629,4982,2645,4980,4833,4974,4421,4527,4645
 ```
 
-- (mp3 of summary)[20_usis.mp3]
+- [mp3 of summary](20_usis.mp3)
 
 Good evening, this is your correspondent reporting on a series of critical developments in U.S.-Israel relations and the broader Middle East, as detailed in recent articles from The Jerusalem Post and Fox News. These reports reveal a complex web of diplomatic, military, and political maneuvers, with significant implications for regional stability and global security. Let’s break down the major themes and insights, delivering the facts with clarity and precision.
 
@@ -907,7 +907,7 @@ In summary, these developments reveal a U.S. foreign policy under Trump that is 
 2668,2907,3185,3216,4532,4952,4981,3209
 ```
 
-- (mp3 of summary)[21_argis.mp3]
+- [mp3 of summary](21_argis.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a significant diplomatic development unfolding in the Middle East. Argentine President Javier Milei’s recent visit to Israel marks a bold and symbolically charged moment in international relations, underscoring a rare alignment between Buenos Aires and Jerusalem at a time when Israel faces growing global isolation. Drawing from detailed reports, let’s unpack the key events, themes, and implications of this historic trip.
 
@@ -938,7 +938,7 @@ In conclusion, President Milei’s visit is a diplomatic lifeline for Israel, sh
 2985,3019,3083,3154,3196,3217,4954
 ```
 
-- (mp3 of summary)[22_sanc.mp3]
+- [mp3 of summary](22_sanc.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a significant international development that has sent shockwaves through diplomatic circles. Five Western nations—Britain, Australia, Canada, New Zealand, and Norway—have imposed unprecedented sanctions on two far-right Israeli cabinet ministers, Itamar Ben-Gvir and Bezalel Smotrich, for inciting violence against Palestinian communities in the occupied West Bank. This coordinated action marks a sharp escalation in global pressure on Israel amid escalating settler violence and the ongoing humanitarian crisis in Gaza. Let’s unpack the details and the broader implications of this historic move.
 
@@ -973,7 +973,7 @@ As the world watches, the sanctions raise critical questions: Will they compel I
 3222,3463,4345,4873,4938,4704,4585,3312,3532,4275
 ```
 
-- (mp3 of summary)[23_palsta.mp3]
+- [mp3 of summary](23_palsta.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in the Israeli-Palestinian conflict, drawing from a collection of recent news articles. Tonight, we delve into the complex and often contentious issues surrounding this ongoing crisis, marked by violence, diplomacy, and legal battles. Our focus is on the major themes emerging from these reports: the humanitarian crisis in Gaza, allegations of war crimes and genocide, international diplomatic tensions, the role of UNRWA, and the broader geopolitical implications.
 
@@ -1010,7 +1010,7 @@ In conclusion, the Israeli-Palestinian conflict remains a volatile flashpoint, m
 1800,1941,2624,2898,3087,3095,3450,4257,4282,4283,4310,4333,4624,4953
 ```
 
-- (mp3 of summary)[24_anti.mp3]
+- [mp3 of summary](24_anti.mp3)
 
 Good evening, ladies and gentlemen. This is your correspondent, reporting on a series of critical news stories that highlight the alarming rise of antisemitism worldwide, the complex interplay of political rhetoric, and the ongoing tensions surrounding the Israeli-Palestinian conflict. Drawing from a comprehensive set of articles, we will unpack the major themes and provide an insightful summary of these pressing issues.
 
