@@ -44,6 +44,8 @@
 # Society and Culture
 ## Antisemitism and Hate Crimes
 
+- (jsonl encoded raw data file with targetted sentiment analysis and named entities. id is the number you see beside articles.)[israel.jsonl]
+
 ---
 
 # Conflict and Security
@@ -193,6 +195,7 @@ As Eid al-Adha unfolds, Gaza’s plight is stark. Families, unable to share trad
 
 This is a story of survival against overwhelming odds, where every box of food comes at a deadly cost. We’ll continue to follow developments closely. For now, back to the studio.
 
+![GazaMil.png](GazaMil.png)
 ### Gaza Military Operations
 - **1841**: [Resistance enters war of attrition with Israel: Hamas](https://en.mehrnews.com/news/232840/Resistance-enters-war-of-attrition-with-Israel-Hamas) *mehr-news*
 - **1846**: [Battles escalate in Khan Younis as Qassam confronts occupiers](https://en.mehrnews.com/news/232836/Battles-escalate-in-Khan-Younis-as-Qassam-confronts-occupiers) *mehr-news*
@@ -215,6 +218,7 @@ This is a story of survival against overwhelming odds, where every box of food c
 1841,1846,1850,1920,2605,2886,3132,3194,4386,4483,4378,2918,4891,4384,4346,4347,4889
 ```
 
+- (mp3 of summary)[03_gazamil.mp3]
 Good evening, viewers. This is your nightly update on the escalating conflict in the Gaza Strip, based on a detailed analysis of recent reports from multiple sources. I'm here to break down the critical developments, the human toll, and the political dynamics driving this crisis.
 
 We begin with the dire situation on the ground. According to the Palestinian Ministry of Health, over 55,000 Palestinians have been killed since October 2023, with 123 deaths reported in just the last 24 hours as of June 11, 2025. Injuries have surpassed 127,000, and many victims remain trapped under rubble, unreachable by rescuers. The Israeli military resumed its offensive on March 18, shattering a January ceasefire, and has since killed nearly 5,000 people. These figures paint a grim picture of a conflict that shows no signs of abating.
@@ -232,6 +236,8 @@ The war's ripple effects are felt beyond Gaza. In Rafah, British journalist Mehd
 Tragically, the conflict is also claiming journalists. Al Jazeera cameraman Samer Abu Daqqa was killed in a drone strike on June 6 while reporting on a school bombing in Khan Younis, with the Committee to Protect Journalists noting 64 media workers killed in the war.
 
 As we wrap up, the Gaza conflict remains a devastating cycle of violence, with no clear path to peace. The human cost is staggering, and the political will for a resolution appears elusive. Stay with us for continued coverage as this story unfolds. Back to you in the studio.
+
+![oct7.png](oct7.png)
 ### October 7 Anniversary and Impact
 - **1934**: [Abbas praises October 7 massacre ahead of pro-Palestinian summit](https://www.jpost.com/middle-east/article-856960) *jpost-me*
 - **2672**: [Jewish identity strengthened since October 7th](https://www.israelnationalnews.com/news/409701) *arutz-sheva*
@@ -258,7 +264,7 @@ As we wrap up, the Gaza conflict remains a devastating cycle of violence, with n
 ```
 1934,2672,4297,4465,4472,4477,4480,4484,4473,4474,4476,4666,4382,4955,4352,4471,4520,4482,4312,4289,4291,3452
 ```
-
+- (mp3 of summary)[04_oct7.mp3]
 Good evening, and welcome to our special report on the ongoing impact of the October 7, 2023, Hamas attack on Israel, a day that has left an indelible mark on the nation and the region. Drawing from a collection of recent articles published by The Jerusalem Post, we’ll unpack the profound political, social, and psychological ramifications of this tragedy, which claimed 1,200 lives, saw 250 people taken hostage, and sparked a war that continues to reshape Israel and its neighbors. Let’s dive into the key insights with a focus on the human stories, strategic shifts, and the broader implications.
 
 We begin with the controversial remarks of Palestinian Authority Chairman Mahmoud Abbas, who, in an interview published in Al-Hayat Al-Jadida, praised the October 7 attack as achieving “important goals” for the Palestinian cause. Abbas framed the assault, which killed 1,200 Israelis and abducted 250, as a strategic blow to Israel’s perceived invincibility, exposing failures in its military and intelligence systems. He acknowledged the heavy toll on Gaza’s residents but emphasized the operation’s “strategic impact.” These comments, echoed by his senior adviser Mahmoud Al-Habbash’s defense of the attack as “legitimate resistance,” have drawn sharp criticism. Itamar Marcus of Palestinian Media Watch argues that Abbas’s statements reveal the PA’s ongoing support for terrorism, raising questions about its suitability for statehood. Marcus has called on Israel and the U.S. to block PA leaders from attending UN events until these remarks are retracted, warning that a Palestinian state under such leadership risks becoming a “terror state.” This rhetoric underscores a deep divide in how the conflict is framed, with Abbas’s words to Palestinian audiences starkly contrasting his international messaging.
@@ -281,6 +287,7 @@ Finally, the war’s health impacts extend beyond mental trauma. Smoking rates h
 
 As Israel marks this somber anniversary, the stories of heroism, loss, and resilience paint a complex picture. From the bravery of soldiers like Roi Nahary to the enduring hope of Emily Hand’s dance in the sand, Israel grapples with its scars while seeking a path forward. The question remains: can these lessons of unity and sacrifice lead to a lasting resolution? Stay tuned as we continue to follow this unfolding story. This is [Your Name], reporting for [Network Name].
 
+![ishez.png](ishez.png)
 ## Israel-Hezbollah Conflict
 ### Beirut and Southern Lebanon Strikes
 - **1650**: [Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister](https://tass.com/world/1969663) *tass*
@@ -298,6 +305,7 @@ As Israel marks this somber anniversary, the stories of heroism, loss, and resil
 1650,1681,1685,3118,4377,4485,3205,3465,1694,4368,4370
 ```
 
+- (mp3 of summary)[05_ishez.mp3]
 Good evening, and welcome to our international news segment. I'm reporting on a series of critical developments in the escalating tensions between Israel and Lebanon, centered around the activities of Hezbollah and the fragile ceasefire in the region. Drawing from a collection of recent news reports, I'll break down the key events and their implications for stability in the Middle East.
 
 Since late April 2025, Israel has intensified its military operations against Hezbollah, a powerful Shiite militant group based in Lebanon. On June 5, the Israel Defense Forces (IDF) launched airstrikes on Dahieh, a southern suburb of Beirut and a Hezbollah stronghold, targeting what they claim were drone assembly workshops and facilities of Hezbollah’s Aerial Unit 127. These strikes marked a significant escalation, as Israel had not targeted Beirut since late April, focusing instead on southern Lebanon. The following day, June 6, reports from Al Jazeera indicated at least 17 strikes hit Beirut’s southern suburbs, with a mix of direct and warning strikes, causing widespread panic and evacuations as residents fled the area. The IDF issued urgent warnings via social media, urging residents of neighborhoods like Al-Hadath, Haret Hreik, and Burj Al-Barajneh to evacuate immediately, citing proximity to Hezbollah’s alleged underground UAV production facilities.
@@ -318,6 +326,7 @@ The situation remains volatile. Israel’s strikes, Hezbollah’s resilience, an
 
 This has been a comprehensive update on the Israel-Lebanon conflict. Stay tuned for further developments.
 
+![ishouthi.png](ishouthi.png)
 ## Israel-Houthi Conflict
 ### Houthi Attacks and Israeli Response
 - **2443**: [Houthis say their strike prevented US military plane from landing in Israel](https://tass.com/world/1968081) *tass*
@@ -337,7 +346,7 @@ This has been a comprehensive update on the Israel-Lebanon conflict. Stay tuned 
 2443,2920,2871,3004,3084,3181,3211,3214,3261,3266,4369,4535,4453
 ```
 
-
+- (mp3 of summary)[06_ishouthi.mp3]
 Good evening, viewers, this is your nightly update on the escalating tensions in the Middle East, where the conflict between Israel and Yemen’s Houthi movement, also known as Ansar Allah, has intensified significantly. Drawing from a series of recent news reports, I’ll break down the key developments with a focus on the military, political, and humanitarian dimensions of this complex situation.
 
 Let’s start with the core of the conflict. The Houthis, an Iran-backed group controlling much of northwestern Yemen since ousting the internationally recognized government in 2014, have been launching missile and drone attacks on Israel in solidarity with Palestinians in Gaza. These attacks, which began in earnest after Hamas’s October 2023 assault on Israel, have included over 400 ballistic missiles and drones targeting Israeli territory. Notably, on June 4, 2025, Houthi military spokesman Yahya Saree claimed a hypersonic missile strike on Ben Gurion Airport in Tel Aviv, which he said prevented a U.S. military transport plane from landing. The Israel Defense Forces (IDF) confirmed detecting a missile launch from Yemen that day, stating it was intercepted, with no reported damage or casualties at the airport. A similar Houthi-claimed attack on June 11 targeted the same airport with two ballistic missiles, though the IDF again reported successful interception, with debris causing minor damage in areas like Beitar Ilit.
@@ -383,6 +392,7 @@ The Houthis’ defiance and Israel’s intensified strikes suggest a prolonged c
 
 *Sources: TASS, Al Masirah, Jerusalem Post, BBC, Fox News, Al-Ain*
 
+![issyria.png](issyria.png)
 ## Israel-Syria Conflict
 ### Syrian Military Actions
 - **2436**: [Syrian authorities deny shelling Israeli territory](https://tass.com/world/1968099) *tass*
@@ -395,6 +405,7 @@ The Houthis’ defiance and Israel’s intensified strikes suggest a prolonged c
 2436,2438,2448,4371,4968,4983
 ```
 
+- (mp3 of summary)[07_issyria.mp3]
 Good evening, viewers. This is [Your Name], reporting on a rapidly evolving situation in the Middle East, where tensions and diplomatic shifts between Israel and Syria are taking center stage. We’ve obtained exclusive news articles detailing recent military and diplomatic developments, and I’m here to break it all down for you with the latest insights.
 
 Let’s start with a flashpoint incident on June 4th. According to reports, two projectiles were launched from Syrian territory, landing in unpopulated areas of Israel. The Israeli military, specifically the Israel Defense Forces (IDF), responded swiftly with artillery strikes on southern Syria, targeting the Dera’a governorate. Israeli fighter jets followed up with additional strikes, signaling a strong retaliation. Israel’s Defense Minister, Israel Katz, pointed the finger at Syria’s transitional government, led by Ahmed al-Sharaa, holding them responsible for the attack. However, Syria’s new authorities, speaking through their foreign ministry on Al Ekhbariya TV, denied any involvement. They condemned Israel’s strikes as a violation of Syrian sovereignty and suggested the shelling was orchestrated by forces aiming to destabilize the region. This back-and-forth highlights the fragile state of affairs between these two neighbors, with both sides quick to escalate militarily while trading accusations.
@@ -409,6 +420,7 @@ What does this mean for the region? On one hand, the military operations, like t
 
 This is a critical moment for Israel, Syria, and the broader Middle East. Will we see a historic peace deal, or will military escalations dominate? We’ll keep you updated as this story unfolds. Back to you in the studio.
 
+![syrmed.png](syrmed.png)
 ### Syrian Media and Policy Shifts
 - **2917**: [Syria's new regime slashes anti-Israel media coverage, study shows](https://www.jpost.com/middle-east/article-857166) *jpost-me*
 - **2936**: [JPPI study: Syrian media reduces hostility toward Israel under new regime](https://www.israelnationalnews.com/news/409729) *arutz-sheva*
@@ -416,6 +428,7 @@ This is a critical moment for Israel, Syria, and the broader Middle East. Will w
 2917,2936
 ```
 
+- (mp3 of summary)[syrmed.mp3]
 Good evening, and welcome to our international news segment. I’m standing here with a groundbreaking story out of Syria, where a seismic shift in media coverage is signaling potential changes in the country’s stance toward Israel. New research from the Jerusalem-based Jewish People Policy Institute, or JPPI, reveals a dramatic drop in Israel-related content in Syrian state media since the fall of Bashar al-Assad’s regime last December. Let’s dive into the details.
 
 For years, under Assad’s iron grip, Syria’s state-run media—outlets like the Syrian Arab News Agency, SANA, and newspapers Al-Thawra and Al-Hurriya—churned out a steady stream of anti-Israel rhetoric. According to JPPI’s analysis, a staggering 43% of SANA’s reports last year focused on Israel, painting it as a colonial aggressor bent on destabilizing the region. Opinion columns in Al-Thawra were even more intense: nearly 25% of them—147 out of 595—targeted Israel, with over 95% classified as “highly negative” by AI-based sentiment analysis. Al-Hurriya, formerly known as Tishreen, echoed this hostility, with virtually no neutral or positive takes.
@@ -428,6 +441,7 @@ Now, let’s be clear: this isn’t normalization. The tone in Syrian media rema
 
 So, what’s the takeaway? Syria’s new leadership appears to be dialing back its media’s fixation on Israel, possibly laying the groundwork for diplomatic openings. It’s a subtle but significant shift, and in the volatile Middle East, even small changes can have big implications. Stay tuned as we follow this developing story. Back to you in the studio.
 
+![isiran.png](isiran.png)
 ## Israel-Iran Conflict
 ### Iranian Nuclear Program and Intelligence
 - **1847**: [How did Iran acquire trove of strategic data about Israel?](https://en.mehrnews.com/news/232834/How-did-Iran-acquire-trove-of-strategic-data-about-Israel) *mehr-news*
@@ -463,6 +477,7 @@ So, what’s the takeaway? Syria’s new leadership appears to be dialing back i
 1847,1848,1900,2661,2663,2664,2866,2911,3206,3435,3143,2845,2846,4555,4543,4545,4546,4548,3207,3220,3223,3369,4265,4272,4557,4653,4965,4966,4541
 ```
 
+- (mp3 of summary)[09_iranuc.mp3]
 Good evening, viewers. This is your nightly news update, and tonight, we’re diving into a complex and escalating situation in the Middle East, centered on Iran’s alleged acquisition of sensitive Israeli documents and the broader implications for its nuclear ambitions and regional power dynamics. Drawing from a series of detailed reports, let’s unpack this developing story with the precision it demands.
 
 On June 7, 2025, Iran’s state broadcaster, IRIB, dropped a bombshell, claiming that Iranian intelligence services executed a sophisticated operation to obtain a vast trove of classified Israeli documents, including materials related to Israel’s nuclear program. According to Iran’s Intelligence Minister, Esmail Khatib, these documents, described as a “strategic intelligence treasure trove,” include thousands of files detailing Israel’s nuclear facilities, military plans, and connections with Western powers like the United States and Europe. The operation, which reportedly involved both field and cyber tactics, allegedly penetrated deep into Israel’s security apparatus, including the Ministry of Homeland Security and the HaKirya complex in Tel Aviv, a hub for Israel’s military and intelligence operations. Iranian officials claim the documents were safely transferred to Iran, with all operatives returning unharmed, and they’ve hinted at releasing parts of this cache soon, potentially to destabilize Israel further.
@@ -483,6 +498,7 @@ As the IAEA prepares to vote on a potential censure of Iran this week, possibly 
 
 This is a story of high-stakes espionage, nuclear brinkmanship, and shifting alliances. We’ll continue to monitor developments closely. Back to you in the studio.
 
+![iranreg.png](iranreg.png)
 ### Iranian Regional Influence
 - **2669**: [Trump: Iran involved in Israel-Hamas hostage talks](https://www.israelnationalnews.com/news/409707) *arutz-sheva*
 - **4547**: [Iran vows to help rebuild Lebanon, potentially boosting Hezbollah](https://www.jpost.com/middle-east/iran-news/article-856486) *jpost-iran*
@@ -495,6 +511,7 @@ This is a story of high-stakes espionage, nuclear brinkmanship, and shifting all
 2669,4547,4549,4552,3125,4490,4492
 ```
 
+- (mp3 of summary)[10_iranreg.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in the Middle East, where tensions, diplomacy, and strategic maneuvering are shaping a complex geopolitical landscape. Our focus tonight is on Iran’s multifaceted role in regional conflicts, nuclear negotiations, and its relationships with neighboring states and non-state actors. Drawing from recent reports, we’ll unpack the major themes and their implications for global stability.
 
 First, let’s turn to the ongoing indirect negotiations involving Israel, Hamas, and Iran, as highlighted by U.S. President Donald Trump during a White House event. President Trump revealed that Iran is participating in talks aimed at securing a hostage release deal between Israel and Hamas, though specifics remain undisclosed. He emphasized the urgency of resolving the Gaza situation, stating, “We want to get the hostages back.” This acknowledgment of Iran’s involvement underscores its influence in the Israel-Hamas conflict, despite its historically adversarial stance toward Israel. Trump also discussed a conversation with Israeli Prime Minister Benjamin Netanyahu, which covered not only the Gaza talks but also nuclear negotiations with Iran. The President described Iran as a “tough negotiator,” particularly unwilling to compromise on uranium enrichment, a sticking point in efforts to prevent “destruction and death.” This suggests a dual-track diplomatic effort: one addressing immediate regional conflicts and another tackling Iran’s nuclear ambitions.
@@ -511,6 +528,7 @@ In summary, the Middle East remains a tinderbox of competing interests. Iran’s
 
 This has been your correspondent, reporting on the unfolding dynamics in the Middle East. Good night.
 
+![iranterr.png](iranterr.png)
 ### Iranian Terror Activities
 - **2926**: [Iran recruits 13-year-old Israeli via Telegram for Iranian propaganda](https://www.israelnationalnews.com/news/409740) *arutz-sheva*
 - **4566**: [Israeli citizen joins ISIS via TikTok, plans to attack Jews](https://www.jpost.com/breaking-news/article-814292) *jpost-isis*
@@ -519,6 +537,7 @@ This has been your correspondent, reporting on the unfolding dynamics in the Mid
 2926,4566,4576
 ```
 
+- (mp3 of summary)[11_iranterr.mp3]
 Good evening. I'm reporting on three significant developments that underscore the escalating tensions between Iran and Israel, along with Iran's continued domestic unrest. These stories paint a troubling picture of Iran's multi-front strategy of destabilization.
 
 **Iran's Recruitment of Israeli Children**
@@ -551,6 +570,7 @@ These developments collectively suggest we may be entering a more dangerous phas
 
 This is a developing story, and we'll continue monitoring these critical developments as they unfold.
 
+![nucpro.png](nucpro.png)
 ## Regional and International Security
 ### Nuclear Proliferation
 - **1668**: [US Golden Dome project could obstruct arms control, senior Russian diplomat warns](https://tass.com/politics/1969603) *tass*
@@ -562,6 +582,7 @@ This is a developing story, and we'll continue monitoring these critical develop
 1668,2404,4324,4334,4833
 ```
 
+- (mp3 of summary)[12_nucpro.mp3]
 Good evening. I'm reporting tonight on a major defense initiative that's capturing international attention and raising serious concerns about a new arms race. President Trump's "Golden Dome" missile defense system is moving from campaign promise to reality, but it's already creating ripple effects across the globe.
 
 Let me break down what we know. The Golden Dome is essentially America's answer to Israel's Iron Dome - but on a massive scale. Trump announced that the defense shield would cost some $175 billion and should be operational by the end of his term. The system would deploy hundreds of satellites in space to detect, track, and intercept incoming missiles, with General Michael Guetlein, vice chief of space operations, leading the project.
@@ -582,6 +603,7 @@ This isn't just about technology - it's about the future of global stability. Th
 
 We'll continue following this story as it develops. Back to you in the studio.
 
+![isisother.png](isisother.png)
 ### ISIS and Other Terror Threats
 - **4570**: [Israeli citizen joins ISIS via TikTok, plans to attack Jews](https://www.jpost.com/breaking-news/article-756174) *jpost-isis*
 - **4578**: [Islamic State cell plan to attack Nazareth Muslim school thwarted by Israeli forces](https://www.jpost.com/breaking-news/article-718715) *jpost-isis*
@@ -595,6 +617,7 @@ We'll continue following this story as it develops. Back to you in the studio.
 4570,4578,4581,4582,4585,4586,4589,4668
 ```
 
+- (mp3 of summary)[14_isisother.mp3]
 Good evening. I'm here to report on a deeply concerning pattern of ISIS-related terrorism and radicalization that's been unfolding across multiple countries, with particularly alarming developments in Israel and the broader international community.
 
 **The Israeli Front: A New Wave of Homegrown Terror**
@@ -631,6 +654,7 @@ As we've learned from both the Nazi era and now ISIS, bringing these criminals t
 
 The threat remains clear and present, requiring continued vigilance and international cooperation to prevent the next wave of attacks. Back to you in the studio.
 
+![crimeint.png](crimeint.png)
 ## Israeli Domestic Security
 ### Crime and Internal Security
 - **1906**: [Police investigate three separate murder incidents in Israel between Sunday and Monday](https://www.jpost.com/israel-news/article-857021) *jpost-israel*
@@ -645,6 +669,7 @@ The threat remains clear and present, requiring continued vigilance and internat
 1906,1925,2650,2670,2910,3448,3456,4271
 ```
 
+- (mp3 of summary)[15_crimeint.mp3]
 Good evening. I'm reporting on a troubling surge in violent crime across Israel that has unfolded over recent days, painting a disturbing picture of domestic security challenges amid the ongoing Israel-Hamas War.
 
 The statistics are staggering and deeply concerning. In just one weekend, we've documented multiple murders across the country. On Sunday alone, three separate homicides occurred within hours of each other. In Umm al-Fahm, a 28-year-old man allegedly murdered his 60-year-old mother, Kawtar Zitaoui, and stabbed his heavily pregnant wife, who remains hospitalized in moderate condition. Police found the suspect covered in blood, attempting to attack officers with a sharp weapon. A small child was discovered sleeping in a separate room and has been placed with welfare authorities.
@@ -671,6 +696,7 @@ The numbers tell a stark story: these have been some of the worst recorded years
 
 This is a developing story, and we'll continue monitoring these troubling trends. Back to you in the studio.
 
+![mildef.png](mildef.png)
 ### Military and Defense Policy
 - **1914**: [Israeli officials to hold assessment as new 'Tzav 8' orders considered](https://www.jpost.com/israel-news/article-857008) *jpost-israel*
 - **1931**: [From Europe to Asia: Why Israel’s defense tech is in high demand](https://www.jpost.com/israel-news/article-856964) *jpost-israel*
@@ -689,6 +715,7 @@ This is a developing story, and we'll continue monitoring these troubling trends
 1914,1931,1949,2680,2682,2905,2933,3180,3187,3215,4497,4373,4960
 ```
 
+- (mp3 of summary)[16_mildef.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in Israel, drawn from recent news articles. Tonight, we delve into the complex interplay of military strategy, religious obligations, political tensions, and international relations shaping the nation’s present and future. Let’s unpack the major themes with precision and insight.
 
 First, the ongoing war in Gaza remains a central focus. Israel’s military operation, dubbed "Gideon’s Chariots," has achieved significant operational successes but at a heavy cost, including the deaths of soldiers, such as four from the elite Yahalom unit in Khan Younis. Reservists, some serving their fifth or sixth tour, face mounting frustration over prolonged deployments—up to 250 days for many—disrupting family life, careers, and studies. Uncertainty surrounds the duration of service, with questions about replacements and future call-ups complicating planning for reservists, especially parents and students. The political leadership is set to assess the need for new emergency orders, known as Tzav 8, to balance the burden between reserve and regular forces while weighing hostage negotiations and the scope of the conflict.
@@ -709,6 +736,7 @@ In summary, Israel navigates a precarious landscape: a grueling war in Gaza, a d
 
 # Politics and Diplomacy
 ## Israeli Politics
+![ispol.png](ispol.png)
 ### Government and Coalition Dynamics
 - **1921**: [Netanyahu, Liberman test the line between wartime strategy, political ambition](https://www.jpost.com/israel-news/politics-and-diplomacy/article-856990) *jpost-israel*
 - **1946**: [Smotrich against Barkat: Name one achievement of yours since the government took office](https://www.israelnationalnews.com/news/409649) *arutz-sheva*
@@ -730,6 +758,7 @@ In summary, Israel navigates a precarious landscape: a grueling war in Gaza, a d
 1921,1946,2652,2658,2665,3183,3198,4514,4515,4517,4518,4521,4505,4664,4249,4857
 ```
 
+- (mp3 of summary)[17_ispol.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a critical juncture in Israeli politics, where the coalition government led by Prime Minister Benjamin Netanyahu faces its most severe crisis yet, teetering on the brink of collapse. The central issue threatening to dissolve the Knesset and trigger early elections is the contentious matter of conscripting ultra-Orthodox, or haredi, men into the Israel Defense Forces—a decades-long issue reignited by the seismic events of October 7, 2023. Tonight, we’ll unpack the major themes driving this political turmoil, drawing from a series of detailed reports.
 
 Our first theme is the haredi conscription crisis, a deeply divisive issue that has exposed fault lines in Israeli society. For years, haredi men devoted to full-time Torah study have been granted exemptions from mandatory military service, a policy rooted in Israel’s founding when the ultra-Orthodox were a small minority. But today, with over 80,000 haredi men exempt and the IDF urgently needing 10,000 additional soldiers, public frustration has reached a boiling point. The High Court’s ruling last June, declaring these exemptions legally baseless, has forced the government to act. Yet, efforts to draft a new conscription law have stalled. Knesset Foreign Affairs and Defense Committee Chairman Yuli Edelstein insists on strict quotas and sanctions for draft dodgers, including cuts to yeshiva funding and restrictions on benefits like housing subsidies and driver’s licenses. Haredi leaders, however, see these measures as an attack on their way of life. Rabbi Moshe Hillel Hirsch, a leading Lithuanian haredi figure, has warned that persecution of Torah learners is a greater threat than Iran, signaling his faction’s readiness to leave the coalition if exemptions aren’t secured. Similarly, United Torah Judaism’s Yitzhak Goldknopf is pushing to dissolve the Knesset, a move that could force elections within 90 days. This standoff has placed Netanyahu in a precarious position, as he balances his coalition’s survival against growing public demand for equal burden-sharing.
@@ -744,6 +773,7 @@ Finally, we see internal coalition tensions and governance challenges complicati
 
 In conclusion, Israel stands at a crossroads. The haredi conscription debate is not just about military service—it’s about equality, national identity, and the social contract in a nation at war. With coalition fractures deepening, new political players emerging, and wartime decisions under scrutiny, the prospect of early elections looms large. Whether the Knesset dissolves this week or limps on until October 2026, the issues of October 7 and haredi exemptions will dominate the national conversation. This is a nation wrestling with its future, and the world is watching. For now, we’ll continue to monitor this unfolding drama. Back to you in the studio.
 
+![legaljud.png](legaljud.png)
 ### Legal and Judicial Issues
 - **3190**: [MQG files to Supreme Court against gov’t decision on A-G dismissal](https://www.jpost.com/israel-news/article-857230) *jpost-israel*
 - **4519**: [How will Netanyahu's dramatic cross-examination affect his criminal trials?](https://www.jpost.com/israel-news/article-856423) *jpost-ispol*
@@ -754,6 +784,7 @@ In conclusion, Israel stands at a crossroads. The haredi conscription debate is 
 3190,4519,4523,4530,4528
 ```
 
+- (mp3 of summary)[18_legaljud.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in Israeli politics, centered on Prime Minister Benjamin Netanyahu and the intensifying legal and political battles shaping the nation’s future. Our coverage draws from recent reports by The Jerusalem Post, highlighting themes of legal accountability, institutional reform, political maneuvering, and public trust in governance.
 
 First, we turn to the escalating controversy surrounding Attorney-General Gali Baharav-Miara. The Movement for Quality Government in Israel, or MQG, has petitioned the Supreme Court to block a government decision aimed at altering the hiring and dismissal process for the attorney-general. The group argues this move is a targeted effort to oust Baharav-Miara, driven by Justice Minister Yariv Levin’s proposal to replace an independent appointment committee with one composed of ministers he selects. This change, MQG contends, lacks a factual basis, deviates from established protocols set by the Shamgar Committee, and is tainted by conflicts of interest. Notably, Prime Minister Netanyahu and nine other government members face ongoing investigations or criminal proceedings, placing them at odds with Baharav-Miara, who oversees the state prosecution system. The petition underscores a broader theme: the tension between political power and the independence of Israel’s legal institutions.
@@ -768,6 +799,7 @@ Finally, the trial unfolded against the somber milestone of the 600th day since 
 
 In summary, these stories reveal a nation at a crossroads, grappling with the integrity of its institutions, the accountability of its leaders, and the delicate balance between political power and legal oversight. As Netanyahu’s trial progresses and the battle over the attorney-general’s role intensifies, Israel’s democratic resilience is being tested. We will continue to follow these developments closely. For now, this is your correspondent, signing off.
 
+![polidis.png](polidis.png)
 ### Political Discourse and Ideology
 - **2655**: [MK Gilad Kariv claims Itamar Ben-Gvir provides backing to Temple Mount 'extremists'](https://www.jpost.com/israel-news/politics-and-diplomacy/article-857107) *jpost-israel*
 - **2656**: ['Remove the reformist': Likud MK hints in debate that Reform Jews are not really Jewish](https://www.jpost.com/israel-news/article-857106) *jpost-israel*
@@ -779,6 +811,7 @@ In summary, these stories reveal a nation at a crossroads, grappling with the in
 2655,2656,4262,3461,4531,4523
 ```
 
+- (mp3 of summary)[19_polidis.mp3]
 Good evening, this is your correspondent reporting on a series of critical developments in Israeli politics, as detailed in recent articles from the Jerusalem Post. Tonight, we delve into the escalating tensions, ideological divides, and inflammatory rhetoric that are shaping Israel’s domestic and international landscape. These stories reveal a nation grappling with its identity, security, and future, as political factions clash over the balance between Jewish tradition and democratic values, alongside contentious issues of national security and international relations. Let’s break it down.
 
 Our first story centers on the Temple Mount, a flashpoint of religious and political significance in Jerusalem. MK Gilad Kariv of The Democrats Party has raised alarms over what he describes as “extremist” activists exploiting a lack of enforcement and the support of National Security Minister Itamar Ben-Gvir to alter the delicate status quo at this holy site. In a letter to Prime Minister Benjamin Netanyahu and other senior officials, Kariv cited two recent incidents: an attempt on May 13 to bring a live goat onto the Temple Mount for sacrifice and a religious ceremony on Shavuot involving worshipers dressed as “high priests.” Kariv warns that these actions, which went unpunished, risk sparking violence, bloodshed, and damaging Israel’s relations with Jordan, which closely monitors the site. He accuses these activists of deliberately escalating tensions, posing a national security threat. The Prime Minister’s Office maintains that nothing has changed, but notably did not respond to Ben-Gvir’s recent statements on Jerusalem Day, May 26, raising questions about the government’s stance.
@@ -798,6 +831,7 @@ The major themes emerging from these reports are stark. First, the struggle over
 As Israel grapples with these internal and external challenges, the path forward remains uncertain. Will pragmatism prevail, or will ideological divides lead to further strife? This is a story we will continue to follow closely. For now, this is your correspondent, signing off.
 
 ## International Diplomacy
+![usis.png](usis.png)
 ### US-Israel Relations
 - **1933**: [Israel, US agree to cease UNIFIL ops. in southern Lebanon](https://www.jpost.com/middle-east/article-857002) *jpost-me*
 - **2681**: [Amb. Huckabee urges politicians to prevent elections in Israel](https://www.israelnationalnews.com/news/409695) *arutz-sheva*
@@ -823,6 +857,7 @@ As Israel grapples with these internal and external challenges, the path forward
 1933,2681,3204,3227,4318,4319,4325,4332,4337,4354,4620,4622,4629,4982,2645,4980,4833,4974,4421,4527,4645
 ```
 
+- (mp3 of summary)[20_usis.mp3]
 Good evening, this is your correspondent reporting on a series of critical developments in U.S.-Israel relations and the broader Middle East, as detailed in recent articles from The Jerusalem Post and Fox News. These reports reveal a complex web of diplomatic, military, and political maneuvers, with significant implications for regional stability and global security. Let’s break down the major themes and insights, delivering the facts with clarity and precision.
 
 First, a pivotal shift in U.S. policy toward the United Nations Interim Force in Lebanon (UNIFIL). The United States and Israel have reportedly agreed that UNIFIL should cease operations in southern Lebanon, with the U.S. deciding not to renew its mandate, a decision Israel did not oppose. This move, set to be voted on by the UN Security Council in the coming months, signals a potential reduction in international oversight in a volatile region, raising questions about future peacekeeping efforts and the balance of power in Lebanon.
@@ -841,6 +876,7 @@ Finally, Trump’s push for a “Golden Dome” missile defense system, inspired
 
 In summary, these developments reveal a U.S. foreign policy under Trump that is staunchly pro-Israel yet increasingly unilateral, prioritizing loyalty and strategic interests over multilateral frameworks like the UN. Tensions with allies like France, domestic debates over military involvement, and the persistent Iranian threat underscore the complexity of the Middle East landscape. As the Trump administration navigates these challenges, the world watches to see whether its bold rhetoric will translate into effective action—or, as some critics suggest, remain a “limp stick” in the face of mounting crises. This has been your correspondent, reporting on the pulse of global diplomacy. Good night.
 
+![argis.png](argis.png)
 ### Argentina-Israel Relations
 - **2668**: [Moving: Argentina's President sheds a tear at the Western Wall](https://www.israelnationalnews.com/news/409709) *arutz-sheva*
 - **2907**: [Milei calls Israel 'cause of the West' at Kotel visit in Jerusalem](https://www.jpost.com/israel-news/article-857146) *jpost-israel*
@@ -854,6 +890,7 @@ In summary, these developments reveal a U.S. foreign policy under Trump that is 
 2668,2907,3185,3216,4532,4952,4981,3209
 ```
 
+- (mp3 of summary)[21_argis.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a significant diplomatic development unfolding in the Middle East. Argentine President Javier Milei’s recent visit to Israel marks a bold and symbolically charged moment in international relations, underscoring a rare alignment between Buenos Aires and Jerusalem at a time when Israel faces growing global isolation. Drawing from detailed reports, let’s unpack the key events, themes, and implications of this historic trip.
 
 President Milei arrived in Israel on Tuesday, June 10, 2025, and immediately made a pilgrimage to the Western Wall in Jerusalem, a site sacred to the Jewish people. Visibly moved, he prayed alongside Rabbi Shmuel Rabinowitz, recited Psalms, and offered a prayer for the return of hostages held by Hamas since the October 7, 2023, attack. Accompanied by his sister and Presidential General Secretary Karina Milei, Foreign Minister Gerardo Werthein, and Ambassador Shimon Axel Wahnish, Milei declared, “My support for Israel comes from the heart, because I believe this is a just cause—the cause of the West.” This emotional gesture set the tone for a 48-hour visit packed with diplomatic engagements, including meetings with Prime Minister Benjamin Netanyahu and families of the hostages.
@@ -870,6 +907,7 @@ Finally, **security and moral clarity** permeate Milei’s rhetoric. He condemne
 
 In conclusion, President Milei’s visit is a diplomatic lifeline for Israel, showcasing a rare ally willing to defy global trends. Yet, the reliance on personality-driven alliances raises questions about sustainability. As Israel navigates a hostile international landscape, Milei’s bold gestures—prayer at the Western Wall, embassy relocation, and economic partnerships—offer a moment of warmth, but the fragility of such ties remains a sobering reality. This is your correspondent, signing off from Jerusalem.
 
+![sanc.png](sanc.png)
 ### Sanctions and International Criticism
 - **2985**: [UK sanctions far-right Israeli ministers for 'inciting violence' against Palestinians](https://www.bbc.com/news/articles/c8xgk1ek19lo) *bbc-top*
 - **3019**: [Pressure Rises on Israel as U.K., Canada and Others Impose Sanctions on 2 Far-Right Ministers](https://www.nytimes.com/2025/06/10/world/canada/uk-canada-sanctions-israel-smotrich-ben-gvir.html) *nyt-world*
@@ -882,6 +920,7 @@ In conclusion, President Milei’s visit is a diplomatic lifeline for Israel, sh
 2985,3019,3083,3154,3196,3217,4954
 ```
 
+- (mp3 of summary)[22_sanc.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a significant international development that has sent shockwaves through diplomatic circles. Five Western nations—Britain, Australia, Canada, New Zealand, and Norway—have imposed unprecedented sanctions on two far-right Israeli cabinet ministers, Itamar Ben-Gvir and Bezalel Smotrich, for inciting violence against Palestinian communities in the occupied West Bank. This coordinated action marks a sharp escalation in global pressure on Israel amid escalating settler violence and the ongoing humanitarian crisis in Gaza. Let’s unpack the details and the broader implications of this historic move.
 
 The sanctions, announced on Tuesday, June 10, 2025, target Israel’s National Security Minister Itamar Ben-Gvir and Finance Minister Bezalel Smotrich, both prominent figures in Prime Minister Benjamin Netanyahu’s coalition government. The measures include travel bans to the five sanctioning countries and the freezing of any assets held there. British Foreign Secretary David Lammy, joined by his counterparts from Australia, Canada, New Zealand, and Norway, condemned the ministers for “inciting extremist violence and serious abuses of Palestinian human rights.” Specifically, the joint statement accuses Ben-Gvir and Smotrich of promoting “extremist rhetoric” advocating for the forced displacement of Palestinians and the expansion of illegal Israeli settlements in the West Bank.
@@ -900,6 +939,7 @@ Another theme is the tension between sovereignty and accountability. Israel view
 
 As the world watches, the sanctions raise critical questions: Will they compel Israel to curb settler violence and engage in ceasefire talks, or will they deepen the divide between Israel and its Western allies? For now, the stage is set for a high-stakes diplomatic showdown, with implications for the future of Israeli-Palestinian relations and the pursuit of lasting peace. This is your correspondent, signing off with a reminder to stay informed as this story unfolds. Good night.
 
+![palsta.png](palsta.png)
 ### Palestinian Statehood and UN Resolutions
 - **3222**: [Peace Now demands Trump condemn 'messianic' Amb. Huckabee](https://www.israelnationalnews.com/news/409762) *arutz-sheva*
 - **3463**: [Spain to push anti-Israel resolution at UN](https://www.israelnationalnews.com/news/409787) *arutz-sheva*
@@ -914,6 +954,7 @@ As the world watches, the sanctions raise critical questions: Will they compel I
 3222,3463,4345,4873,4938,4704,4585,3312,3532,4275
 ```
 
+- (mp3 of summary)[23_palsta.mp3]
 Good evening, ladies and gentlemen. This is your correspondent reporting on a series of critical developments in the Israeli-Palestinian conflict, drawing from a collection of recent news articles. Tonight, we delve into the complex and often contentious issues surrounding this ongoing crisis, marked by violence, diplomacy, and legal battles. Our focus is on the major themes emerging from these reports: the humanitarian crisis in Gaza, allegations of war crimes and genocide, international diplomatic tensions, the role of UNRWA, and the broader geopolitical implications.
 
 First, let’s address the humanitarian catastrophe in Gaza. The United Nations reports that Israeli military actions have devastated Gaza’s education system, destroyed over half of its religious and cultural sites, and caused staggering civilian casualties. Since the Hamas attack on October 7, 2023, which killed 1,200 Israelis, Israel’s response has resulted in at least 54,607 Palestinian deaths and 125,341 injuries, according to Gaza’s health ministry. UNICEF highlights the tragic toll on children, with 14,500 killed and 17,000 orphaned or separated. The blockade of food and aid, particularly from March to May 2025, has pushed Gaza to the brink of famine, with Israel’s Defense Minister openly admitting to using hunger as a tactic against Hamas. This has drawn sharp criticism from humanitarian leaders like Mirjana Spoljaric of the International Committee of the Red Cross, who warns that the disregard for the Geneva Conventions is eroding global standards for protecting civilians.
@@ -929,6 +970,7 @@ Finally, we turn to the broader geopolitical implications. The conflict’s ripp
 In conclusion, the Israeli-Palestinian conflict remains a volatile flashpoint, marked by profound human suffering, legal controversies, and diplomatic fractures. As the world watches, the challenge is clear: balancing justice, security, and humanity in a region where history and pain are ever-present. This has been your correspondent, reporting on these critical issues. Good night.
 
 # Society and Culture
+![anti.png](anti.png)
 ## Antisemitism and Hate Crimes
 - **1800**: [Flashback: Biden repeatedly equated Islamophobia and antisemitism amid surge in attacks on Jews](https://www.foxnews.com/politics/flashback-biden-repeatedly-equated-islamophobia-antisemitism-amid-surge-attacks-jews) *fox-latest*
 - **1941**: [NYC adopts IHRA definition of antisemitism in 'landmark' executive order](https://www.israelnationalnews.com/news/409656) *arutz-sheva*
@@ -948,6 +990,7 @@ In conclusion, the Israeli-Palestinian conflict remains a volatile flashpoint, m
 1800,1941,2624,2898,3087,3095,3450,4257,4282,4283,4310,4333,4624,4953
 ```
 
+- (mp3 of summary)[24_anti.mp3]
 Good evening, ladies and gentlemen. This is your correspondent, reporting on a series of critical news stories that highlight the alarming rise of antisemitism worldwide, the complex interplay of political rhetoric, and the ongoing tensions surrounding the Israeli-Palestinian conflict. Drawing from a comprehensive set of articles, we will unpack the major themes and provide an insightful summary of these pressing issues.
 
 Our first major theme is the **global surge in antisemitic incidents**, which has reached unprecedented levels in recent years. In 2024, the Anti-Defamation League reported 9,354 antisemitic incidents in the United States alone, a 5% increase from 2023 and a staggering 926% rise since 1979. This wave of hatred has manifested in violent attacks, vandalism, and harassment, particularly following the Hamas-led attack on Israel on October 7, 2023. Notable incidents include the shooting of two Israeli Embassy staff members, Yaron Lischinsky and Sarah Milgrim, outside a Jewish museum in Washington, D.C., on May 21, 2025, and a terror attack in Boulder, Colorado, on June 1, 2025, where an Egyptian national, Mohamed Sabry Soliman, allegedly threw Molotov cocktails at a pro-Israel gathering. In Canada, the National Holocaust Monument in Ottawa was defaced with red paint and the words "feed me," an act condemned as antisemitic by Israel’s ambassador, Iddo Moed. In Greece, an Israeli tourist, Meidad Hozeh, was assaulted in Athens on June 10, 2025, by pro-Palestinian activists who targeted him for using Hebrew on Google Maps. These incidents underscore a disturbing trend of antisemitism transcending borders, with Jewish communities in Australia, Canada, France, Germany, the UK, and the US reporting significant spikes in hate crimes.
