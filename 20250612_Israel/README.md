@@ -44,9 +44,9 @@
 # Society and Culture
 ## Antisemitism and Hate Crimes
 
-- (jsonl encoded raw data file with targetted sentiment analysis and named entities. id is the number you see beside articles.)[israel.jsonl]
-
 ---
+
+- (RAWdata)[./israel.jsonl]
 
 # Conflict and Security
 ## Israel-Hamas Conflict
