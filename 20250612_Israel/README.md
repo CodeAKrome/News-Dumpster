@@ -1,5 +1,6 @@
 # Conflict and Security
 ## Israel-Hamas Conflict
+![Gaza Hostage Crisis](./gazahostage.png)
 ### Gaza Hostage Crisis
 - **1630**: [Israel says Hamas Gaza chief Sinwar's body identified](https://www.bbc.com/news/articles/c62veqrq3yzo) *bbc-top*
 - **1699**: [Israeli PM confirms enlisting Palestinian clans in Gaza to fight against Hamas](https://tass.com/world/1969487) *tass*
@@ -43,6 +44,8 @@
 ```
 1630,1699,1733,1907,1917,1926,1952,1954,2673,2683,2904,3177,3195,3193,4360,4361,4363,4364,4343,4344,4348,4366,3186,3189,4511,2824,3117,4712,4916,4946,4973,4468,4951,1687,2906,4351,4380,4381,2446
 ```
+
+- [mp3 of summary](01_gazahostage.mp3)
 
 Good evening, and welcome to our in-depth report on the ongoing crisis in Gaza, where the conflict between Israel and Hamas continues to shape lives, policies, and international relations. I’m standing here with a comprehensive analysis of recent developments, drawn from a collection of news articles spanning late 2023 to mid-2025. Let’s break down the key points with precision and insight.
 
