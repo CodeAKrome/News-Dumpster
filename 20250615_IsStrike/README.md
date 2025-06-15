@@ -1,7 +1,7 @@
-![iswar_strike.png](iswar_strike.png)
 - [mp3 files of summaries](mp3)
 # Middle East Conflict
 ## Israel-Iran Military Engagements
+![iswar_strike.png](iswar_strike.png)
 ### 01 Israeli Strikes on Iran
 - **5852** [**Israel's endgame may be regime change in Iran - but it's a gamble**](https://www.bbc.com/news/articles/c79e233j2gro) *bbc-top*
 - **5854** [**Israel's overnight strike on Iran in maps and images**](https://www.bbc.com/news/articles/crr7gdr82e0o) *bbc-top*
@@ -80,6 +80,7 @@ As the dust settles, the world watches anxiously. Israel’s campaign, now in it
 
 This is a developing story, and we will bring you updates as events unfold. For now, the Middle East stands at a crossroads, with the choices made in the coming days likely to shape the region’s future for years to come. This is your correspondent, signing off. Good night.
 
+![irancounter.png](irancounter.png)
 ### 02 Iranian Retaliatory Attacks
 - **5897** [**Explosions and huge plumes of smoke in Tel Aviv as Iran retaliates**](https://www.bbc.com/news/videos/c74q21jez82o) *bbc-world*
 - **6092** [**Iran fires back at Israel after onslaught targets nuclear facilities**](https://www.lemonde.fr/en/international/article/2025/06/14/iran-fires-back-at-israel-after-onslaught-targets-nuclear-facilities_6742332_4.html) *lemonde*
