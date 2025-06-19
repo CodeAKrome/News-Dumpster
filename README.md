@@ -20,6 +20,7 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 
 ---
 
+## [06-19 test video of article](t2v_sm.mp4)
 ## [Update Israel Strikes 06-15](20250615_IsStrike)
 ## [Giant Israel update up to morning before strikes at Iran](20250612_Israel/README.md)
 ![Image](https://github.com/user-attachments/assets/1f1715ac-e44a-4f38-83d5-b42b65e80ded)
