@@ -15,6 +15,11 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 - [JSON record](#Json-record)
 
 # News
+![isiranwar0618.png](isiranwar0618.png)
+## Israel-Iran War update 06-18
+
+---
+
 ## [Update Israel Strikes 06-15](20250615_IsStrike)
 ## [Giant Israel update up to morning before strikes at Iran](20250612_Israel/README.md)
 ![Image](https://github.com/user-attachments/assets/1f1715ac-e44a-4f38-83d5-b42b65e80ded)
