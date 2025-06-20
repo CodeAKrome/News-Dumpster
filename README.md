@@ -15,6 +15,7 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 - [JSON record](#Json-record)
 
 # News
+## [Update general topics last day](20250620_top10.md)
 ![isiranwar0618.png](isiranwar0618.png)
 ## Israel-Iran War update 06-18
 
