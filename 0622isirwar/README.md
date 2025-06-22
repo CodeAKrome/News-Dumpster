@@ -1,4 +1,5 @@
 # Geopolitics and Conflict
+[isirwar0622](isirwar0622.png)
 ## Israel-Iran Conflict
 ### U.S. Military Involvement
 - *13999* [**U.S. enters war between Israel and Iran**](https://www.cnbc.com/2025/06/21/trump-israel-iran-conflict.html) *cnbc-top*
