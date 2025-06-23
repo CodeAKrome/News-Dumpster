@@ -117,6 +117,9 @@ Ladies and gentlemen, the events of the past few days have thrust the Middle Eas
 This is Walter Cronkite, for CBS News, Good night.
 
 ![0622iirancounter.png](0622iirancounter.png)
+
+Article bias analysis. Showing loves and hates. Red is hate, Green is love.
+
 ### Iran's Official Reactions & Warnings to US Strikes
 - *13972* [Iran will be ready to attack US military in Middle East — top diplomat](https://tass.com/world/1978161) *tass*
 - *14093* [Pezeshkian says Iran's response to aggression to be decisive](https://en.mehrnews.com/news/233462/Pezeshkian-says-Iran-s-response-to-aggression-to-be-decisive) *mehr-news*
