@@ -1,0 +1,337 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Israel-Iran Conflict Timeline</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .timeline-container {
+      position: relative;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .timeline-line {
+      position: absolute;
+      left: 50%;
+      top: 0;
+      bottom: 0;
+      width: 4px;
+      background: #4a5568;
+      transform: translateX(-50%);
+    }
+    .timeline-item {
+      position: relative;
+      margin: 40px 0;
+      display: flex;
+      align-items: center;
+    }
+    .timeline-item.left .timeline-content {
+      margin-right: 20px;
+      text-align: right;
+    }
+    .timeline-item.right .timeline-content {
+      margin-left: 20px;
+      text-align: left;
+    }
+    .timeline-dot {
+      position: absolute;
+      left: 50%;
+      width: 16px;
+      height: 16px;
+      background: #ed8936;
+      border-radius: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+    }
+    .timeline-content {
+      width: 45%;
+      padding: 20px;
+      background: #2d3748;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      color: #e2e8f0;
+    }
+    .timeline-year {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #ed8936;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    @media (max-width: 768px) {
+      .timeline-line {
+        left: 10%;
+      }
+      .timeline-item {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .timeline-item.left .timeline-content,
+      .timeline-item.right .timeline-content {
+        width: 80%;
+        margin: 10px 0 0 20%;
+        text-align: left;
+      }
+      .timeline-dot {
+        left: 10%;
+      }
+    }
+  </style>
+</head>
+<body class="bg-gray-900">
+  <div class="timeline-container">
+    <div class="timeline-line"></div>
+
+    <!-- Pre-2025 Historical Context -->
+    <div class="timeline-year">Pre-2025</div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">November 1979</h3>
+        <p>Iranian students, led by Ruhollah Khomeini, storm U.S. Embassy in Tehran, taking 52 hostages for 444 days.</p>
+        <p><strong>Location:</strong> Tehran, Iran</p>
+        <p><strong>Actors:</strong> Iranian students, Ruhollah Khomeini, U.S. Embassy staff</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">2003</h3>
+        <p>Iran suspends nuclear weapons program, per U.S. intelligence.</p>
+        <p><strong>Location:</strong> Iran</p>
+        <p><strong>Actors:</strong> Iranian government, U.S. intelligence</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">2003–2011</h3>
+        <p>Iraq War fuels anti-Israel narratives, blamed on "neocons."</p>
+        <p><strong>Location:</strong> Iraq</p>
+        <p><strong>Actors:</strong> U.S., Israel, neoconservative analysts</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">2015</h3>
+        <p>Iran signs JCPOA to limit nuclear program.</p>
+        <p><strong>Location:</strong> Global, Iran</p>
+        <p><strong>Actors:</strong> Iran, U.S., world powers</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">2018</h3>
+        <p>Trump withdraws U.S. from JCPOA.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.</p>
+        <p><strong>Actors:</strong> Donald Trump, U.S. government, Iran</p>
+      </div>
+    </div>
+
+    <!-- 2023 -->
+    <div class="timeline-year">2023</div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">October 7, 2023</h3>
+        <p>Hamas launches massacre in Israel; Guterres says attack "did not happen in a vacuum."</p>
+        <p><strong>Location:</strong> Israel, Gaza</p>
+        <p><strong>Actors:</strong> Hamas, Israel, Antonio Guterres</p>
+      </div>
+    </div>
+
+    <!-- 2024 -->
+    <div class="timeline-year">2024</div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">October 2024</h3>
+        <p>Trump calls JCPOA exit "the single biggest thing I did."</p>
+        <p><strong>Location:</strong> Georgia, U.S.</p>
+        <p><strong>Actors:</strong> Donald Trump</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">November 2024</h3>
+        <p>Trump vows to prevent World War Three and end Middle East chaos.</p>
+        <p><strong>Location:</strong> Pittsburgh, Pennsylvania, U.S.</p>
+        <p><strong>Actors:</strong> Donald Trump</p>
+      </div>
+    </div>
+
+    <!-- 2025 -->
+    <div class="timeline-year">2025</div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">January 20, 2025</h3>
+        <p>Trump’s inauguration speech promises peace and unity.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.</p>
+        <p><strong>Actors:</strong> Donald Trump</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">March 2025</h3>
+        <p>Tulsi Gabbard testifies Iran not building nuclear weapons.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.</p>
+        <p><strong>Actors:</strong> Tulsi Gabbard, U.S. intelligence, Congress</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">Early 2025</h3>
+        <p>Iran-U.S. nuclear talks disrupted by Israeli strikes.</p>
+        <p><strong>Location:</strong> Unspecified</p>
+        <p><strong>Actors:</strong> Iran, U.S.</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">May 20, 2025</h3>
+        <p>Alberta reports 486 measles cases due to low vaccination rates.</p>
+        <p><strong>Location:</strong> Alberta, Canada</p>
+        <p><strong>Actors:</strong> Alberta health officials</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 12, 2025</h3>
+        <p>Netanyahu visits Western Wall; Israel launches Operation Rising Lion.</p>
+        <p><strong>Location:</strong> Jerusalem, Israel; Iran</p>
+        <p><strong>Actors:</strong> Benjamin Netanyahu, Israeli military</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 13, 2025</h3>
+        <p>Israel strikes Iran’s nuclear and military facilities.</p>
+        <p><strong>Location:</strong> Iran (Fordo, Natanz, Isfahan)</p>
+        <p><strong>Actors:</strong> Israeli Air Force, Benjamin Netanyahu</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 16, 2025</h3>
+        <p>Trump exits G7 Summit, refuses de-escalation statement.</p>
+        <p><strong>Location:</strong> Canada</p>
+        <p><strong>Actors:</strong> Donald Trump, G7 leaders, Emmanuel Macron</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">Early June 2025</h3>
+        <p>Pentagon official Nathan McCormack makes antisemitic remarks.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.</p>
+        <p><strong>Actors:</strong> Nathan McCormack, Pentagon, Andrew Bernard</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 17, 2025</h3>
+        <p>Trump demands Iran’s surrender; Khamenei threatens damage.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.; Tehran, Iran</p>
+        <p><strong>Actors:</strong> Donald Trump, Ayatollah Ali Khamenei</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 18, 2025</h3>
+        <p>Trump meets security team; Huckabee arranges evacuations.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.; Israel</p>
+        <p><strong>Actors:</strong> Donald Trump, Mike Huckabee, U.S. citizens</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 19, 2025</h3>
+        <p>Trump gives Iran two-week nuclear deal deadline.</p>
+        <p><strong>Location:</strong> Washington, D.C., U.S.; Tehran, Iran</p>
+        <p><strong>Actors:</strong> Donald Trump, Abbas Araghchi</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 20, 2025</h3>
+        <p>Israel’s Operation Rising Lion intensifies; Iran missile hits Haifa; earthquake near Semnan.</p>
+        <p><strong>Location:</strong> Iran, Haifa, Israel</p>
+        <p><strong>Actors:</strong> Israeli military, Itay Mason, David Mason, IAEA</p>
+      </div>
+    </div>
+    <div class="timeline-item left">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 21, 2025</h3>
+        <p>Iran launches UAV attack; U.S. B-2 bombers strike Iran; Netanyahu praises U.S.</p>
+        <p><strong>Location:</strong> Israel, Iran, Missouri, U.S.</p>
+        <p><strong>Actors:</strong> U.S. military, Benjamin Netanyahu, Donald Trump</p>
+      </div>
+    </div>
+    <div class="timeline-item right">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3 class="text-lg font-semibold">June 22, 2025</h3>
+        <p>Ongoing tension; oil prices rise; Khamenei reportedly in bunker.</p>
+        <p><strong>Location:</strong> Iran, Strait of Hormuz, global oil markets</p>
+        <p><strong>Actors:</strong> Ayatollah Ali Khamenei, Donald Trump, Benjamin Netanyahu</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
