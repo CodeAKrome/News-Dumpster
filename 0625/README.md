@@ -630,7 +630,8 @@ That’s the way it is on this tumultuous evening.
 - *17034* [Mass Rally in Tehran Hails Armed Forces in War Against Israel](https://tn.ai/3341901) *tasnim-news* **neg 75.00**
 ```
 17475,17016,17034
-```[mp3 summary](17-top100625.mp3)
+```
+[mp3 summary](17-top100625.mp3)
 Good evening. Tonight, we bring you an important development from the Middle East, illustrating the deep currents of regional sentiment and national resolve. In Tehran, the capital of Iran, thousands of citizens have converged on Enghelab Square over the past two days, in what has been described as a powerful demonstration of solidarity with their nation's armed forces.
 
 These gatherings, reported on Tuesday and Wednesday, were held, according to state media, to express profound gratitude for what Iran termed a 'firm' or 'crushing response' to recent aggressions attributed to Israel and the United States. Participants, drawn from all segments of society — men, women, and children — flooded the square carrying Iranian flags, portraits of Leader Ayatollah Seyyed Ali Khamenei, and images honoring recent martyrs.
