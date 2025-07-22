@@ -15,6 +15,7 @@ gzcat articles_05-11.jsonl.gz | jq 'select(.id | IN(101, 102))'
 - [JSON record](#Json-record)
 
 # News
+## [0721 gaza](0721gaza)
 ## [0721 top10 update](0721up.md)
 ## [0720 all articles](0720all.md)
 ## [update 0719](up0719.md)
